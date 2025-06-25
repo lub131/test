@@ -1,11 +1,11 @@
 {
-  "title": "عنوان الأنشودة",
-  "artist": "اسم المنشد",
-  "album": "اسم الألبوم",
-  "year": "سنة الإصدار",
+  "title": "أنشودة 1",
+  "artist": "منشد 1",
+  "album": "ألبوم الأناشيد",
+  "year": "2023",
   "cover": "cover.jpg",
   "lyrics": "lyrics.lrc",
   "segments": 1,
-  "duration": 240,
-  "qualities": ["high"]
-}
+  "duration": 180,
+  "qualities": ["low", "high"]
+} 
