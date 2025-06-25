@@ -1,0 +1,12 @@
+[
+  {
+    "id": "song1",
+    "title": "أنشودة 1",
+    "artist": "منشد 1",
+    "album": "ألبوم الأناشيد",
+    "imageUrl": "https://raw.githubusercontent.com/lub131/test/main/songs/song1/cover.jpg",
+    "sourceUrls": ["https://raw.githubusercontent.com/lub131/test/main/songs/song1/1.opus"],
+    "lyricsUrl": "https://raw.githubusercontent.com/lub131/test/main/songs/song1/lyrics.lrc",
+    "duration": 180000
+  }
+] 
