@@ -1,17 +1,11 @@
-    {
-      "name": "مكتبة الأناشيد الإسلامية",
-      "description": "مجموعة من الأناشيد المختارة.",
-      "version": "1.0.0",
-      "songs": [
-        {
-          "id": "song1",
-          "title": "جيش الإسلام له مدد",
-          "artist": "فرقة اليرموك",
-          "album": "ألبوم النصر",
-          "cover": "songs/song1/cover.jpg",
-          "audio": "songs/song1/audio.opus",
-          "lyrics": "songs/song1/lyrics.lrc",
-          "metadata": "songs/song1/metadata.json"
-        },
-      ]
-    }
+{
+  "name": "اسم المكتبة",
+  "description": "وصف المكتبة",
+  "version": "1.0",
+  "author": "اسم المؤلف",
+  "songs": [
+    "song1",
+    "أنشودة_2",
+    "أنشودة_3"
+  ]
+}
